@@ -10,7 +10,7 @@
   <img src="assets/TITLEBAR1.png" alt="TITLEBAR" />
 </p>
 
-I am from **Goiás - Brazil**, I'm 18 years old and I'm currently studying **Systems Analysis and Development**. I am passionate about technology, inventions and the creative potential the field offers.
+I am from **Goiás - Brazil**, I'm 19 years old and I'm currently studying **Systems Analysis and Development**. I am passionate about technology, inventions and the creative potential the field offers.
 
 I have a strong interest in **web development**, **application creation**, **games**, and in areas connected to engineering such as **mechatronics**, **robotics**, **electrical** and **electronics**. I believe that technical knowledge, creativity and curiosity form the foundation for innovative solutions.
 
